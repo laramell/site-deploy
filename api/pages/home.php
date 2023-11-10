@@ -7,12 +7,12 @@
         <meta http-equiv="X-UA-Compatible" content="ie=edge">
         <title>Lara Mel - Design</title>
 
-        <link rel="stylesheet" href="/style/fonts.css">
-        <link rel="stylesheet" href="/style/home.css">
+        <link rel="stylesheet" href="/api/styletyle/fonts.css">
+        <link rel="stylesheet" href="/api/styletyle/home.css">
     </head>
     <body>
         <header>
-            <a id="logo" href="/"><img src="/assets/logo.svg" alt="Lara Mel"></a>
+            <a id="logo" href="/"><img src="/api/assetssets/logo.svg" alt="Lara Mel"></a>
             <nav>
                 <ul>
                     <li><a href="">Início</a></li>
