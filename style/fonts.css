@@ -1,0 +1,15 @@
+@font-face {
+    font-family: "Source Serif";
+    font-weight: normal;
+    src: url("../assets/font/SourceSerif4-Regular.ttf");
+}
+@font-face {
+    font-family: "Source Serif";
+    font-weight: 600;
+    src: url("../assets/font/SourceSerif4-Medium.ttf");
+}
+@font-face {
+    font-family: "Source Serif";
+    font-weight: bold;
+    src: url("../assets/font/SourceSerif4-Bold.ttf");
+}
